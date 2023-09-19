@@ -1,5 +1,4 @@
 # Online Shopping Cart (EVENT MANAGEMENT SYSTEM)
-<!-- Live site url: https://ellisonelectronics.herokuapp.com -->
 This is an E-Commerce Website build for selling of any electronics products online.
 
 ### About
